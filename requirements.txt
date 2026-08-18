@@ -1,0 +1,8 @@
+gradio>=4.0
+transformers>=4.40
+torch>=2.2
+torchaudio
+tensorflow
+tf_keras
+pytesseract
+tensorflow_hub
